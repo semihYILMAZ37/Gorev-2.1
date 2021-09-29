@@ -7,7 +7,7 @@ Bu haftaki görev `vector` kullanımı ile ilgili.
 Bunlardan en yaygını ortalama değerdir. Bu görevde vektör içindeki dataların ortalama değerini veren bir fonksiyon yazmanızı bekliyoruz.
 
 ```
-double mean(Vector<double> & data);
+double mean(Vector<double> data);
 ```
 
 **Bonus** : Bir diğer istatistiksel ölçüt standart sapmadır. [Standart sapmanın formülü için tıklayın](https://en.wikipedia.org/wiki/Standard_deviation#Discrete_random_variable)
@@ -15,5 +15,5 @@ double mean(Vector<double> & data);
 Vektör içindeki dataların standart sapmasını veren bir fonksiyon yazmanızı bekliyoruz.
 
 ```
-double stddev(Vector<double> & data);
+double stddev(Vector<double> data);
 ```
