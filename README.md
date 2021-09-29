@@ -10,9 +10,7 @@ Bunlardan en yaygını ortalama değerdir. Bu görevde vektör içindeki datalar
 double mean(Vector<double> & data);
 ```
 
-**Bonus** : Bir diğer istatistiksel ölçüt standart sapmadır. Matematiksel olarak standart sapma aşağıdaki gibi ifade edilebilir :
-
-	\sum_{i=1}^{10} t_i
+**Bonus** : Bir diğer istatistiksel ölçüt standart sapmadır. [Standart sapmanın formülü için tıklayın](https://en.wikipedia.org/wiki/Standard_deviation#Discrete_random_variable)
   
 Vektör içindeki dataların standart sapmasını veren bir fonksiyon yazmanızı bekliyoruz.
 
